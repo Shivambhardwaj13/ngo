@@ -1,1 +1,1 @@
-# ngo
+NGO Child Life Saver is a project aimed at supporting and promoting non-governmental organizations dedicated to saving children's lives. This project provides tools and resources for NGOs to manage their operations more effectively, track their impact, and engage with donors and volunteers. For this project only frontend is present with static data.
